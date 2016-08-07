@@ -146,48 +146,7 @@ footer .coppyright {color: <?php echo "#".$config->get('magikastra_powerbycolor'
 
 <body class="<?php echo $class; ?>">
   <header class="header-container">
-    <div class="header-top">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-6">
-            <?php echo $language; ?>
-            <?php echo $currency; ?>
-            <?php if (!$logged) { ?>
-            <p class="welcome-msg hidden-xs"><?php echo $text_welcome; ?></p>
-            <?php } else { ?>
-            <p class="welcome-msg hidden-xs"><?php echo $text_logged; ?></p>
-            <?php } ?> 
-          </div>
-          <div class="col-xs-6">
-            <div class="toplinks">
-              <div class="links">
-                
-                <div class="myaccount">
-                  <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>"><span class="hidden-xs"><?php echo $text_account; ?></span></a>
-                </div>
-
-                <div class="wishlist"><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><span class="hidden-xs"><?php echo $text_wishlist; ?></span></a>
-                </div>
-
-                <div class="check"><a href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"><span class="hidden-xs"><?php echo $text_checkout; ?></span></a></div>
-
-                <?php if($this->config->get('magikblog_status')==1) {    ?>
-                <div class="demo"><a href="<?php echo $blog; ?>" title="<?php echo $text_blog; ?>"><span class="hidden-xs"><?php echo $text_blog; ?></span></a></div> 
-                <?php } ?>
-
-                <div class="login"><?php if (!$logged) { ?>
-                     <a href="<?php echo $login; ?>"><span class="hidden-xs"><?php echo $text_login; ?></span></a>
-                 <?php }  else { ?>
-                 <a href="<?php echo $logout; ?>"><span class="hidden-xs"><?php echo $text_logout; ?></span></a>
-                   <?php } ?>
-                </div>
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div><!-- header-top -->
+   
 
     <div class="header container">
       <div class="row">
@@ -208,16 +167,7 @@ footer .coppyright {color: <?php echo "#".$config->get('magikastra_powerbycolor'
           </div>
 
           <div class="col-lg-2 col-sm-3 col-md-2">
-            <div class="top-cart-contain">
-            <div class="mini-cart">
-            <?php echo $cart; ?>
-            </div>
-            <div style="display:none" id="ajaxconfig_info"><a href="#/"></a>
-            <input type="hidden" value="">
-            <input type="hidden" value="1" id="enable_module">
-            <input type="hidden" value="1" class="effect_to_cart">
-            <input type="hidden" value="Go to shopping cart" class="title_shopping_cart">
-            </div>
+            
             </div>
           </div>
 
