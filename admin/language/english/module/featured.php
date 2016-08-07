@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Featured';
+$_['heading_title']    = 'Đáng chú ý';
 
 // Text
 $_['text_module']      = 'Modules';

@@ -32,7 +32,7 @@ $_['text_amazon_join']				= 'To create your Checkout by Amazon account <a href="
 $_['column_submission_id']			= 'Submission ID';
 $_['column_status']					= 'Status';
 $_['column_text']					= 'Response';
-$_['column_amazon_order_item_code'] = 'Amazon Order Product Code';
+$_['column_amazon_order_item_code'] = 'Amazon Order Mã sản phẩm';
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';

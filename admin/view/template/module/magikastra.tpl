@@ -83,7 +83,7 @@ text-transform: uppercase
 
 
       <div class="form-group">
-            <label class="col-sm-2 control-label" for="input-magikastra_quickview_button">Product's Quick View:</label>
+            <label class="col-sm-2 control-label" for="input-magikastra_quickview_button">Xem nhanh sản phẩm:</label>
             <div class="col-sm-10">
               <select name="magikastra_quickview_button" id="input-magikastra_quickview_button" class="form-control">
                 <?php if ($magikastra_quickview_button) { ?>

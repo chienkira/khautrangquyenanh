@@ -290,41 +290,7 @@
             <?php } ?>
 
 
-          <div class="add-to-box">
-          <div class="add-to-cart">
-          <label class="control-label" for="input-quantity"><?php echo $entry_qty; ?></label>
-          <div class="pull-left">
-          <div class="custom pull-left">
-
-          <button class="reduced items-count" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) && qty > 0 ) result.value--;return false;" type="button">
-          <i class="icon-minus"> </i>
-          </button>
-
-          <input type="text" name="quantity" value="<?php echo $minimum; ?>" size="2" id="qty" class="input-text qty" maxlength="12"/>
-
-          <button class="increase items-count" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;" type="button">
-          <i class="icon-plus"> </i>
-          </button>
-          <input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
-          </div>
-          </div> 
-
-          <div class="pull-left">
-          <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="button btn-cart"><span><?php echo $button_cart; ?></span></button>
-          </div>
-          </div>
-
-          <div class="email-addto-box">
-          <ul class="add-to-links">
-          <li><a class="link-wishlist" title="<?php echo $button_wishlist; ?>" onclick="wishlist.add('<?php echo $product_id; ?>');">
-          <span><?php echo $button_wishlist; ?></span>
-          </a></li>
-          <li><a class="link-compare"  title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product_id; ?>');">
-          <span><?php echo $button_compare; ?></span>
-          </a></li>
-          </ul>
-          </div>
-          </div><!-- add to box -->
+          
 
 
           </div><!-- product -->

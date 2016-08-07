@@ -1,14 +1,14 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Our Products';
+$_['heading_title'] = 'Sản phẩm';
 
-$_['tab_latest'] = 'Latest';
-$_['tab_bestseller'] = 'Bestseller';
-$_['tab_featured'] = 'Featured';
-$_['tab_special'] = 'Special';
-$_['no_product_found'] = 'No Products Found !!';
+$_['tab_latest'] = 'Mới nhất';
+$_['tab_bestseller'] = 'Bán chạy';
+$_['tab_featured'] = 'Được quan tâm';
+$_['tab_special'] = 'Đặc biệt';
+$_['no_product_found'] = 'Không có sản phẩm';
 
 // Text
-$_['text_reviews']  = 'Based on %s reviews.';
-$_['text_quickview']  = 'Quick view';  
+$_['text_reviews']  = 'Dựa trên %s reviews.';
+$_['text_quickview']  = 'Xem nhanh';  
 ?>

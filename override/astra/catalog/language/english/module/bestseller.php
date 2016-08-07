@@ -1,3 +1,3 @@
 <?php 
-$_['text_quickview']  = 'Quick view'; 
+$_['text_quickview']  = 'Xem nhanh'; 
 $_['button_compare']        = 'Add To Compare';
