@@ -8,3 +8,8 @@
 2016-08-07 3:03:34 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
 2016-08-07 3:12:50 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
 2016-08-07 3:12:50 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 9:53:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/khautrangquyenanh/image/cache/catalog/slide-bg-1820x360.jpg' for writing: Permission denied in /var/www/html/khautrangquyenanh/system/library/image.php on line 45
+2016-08-07 9:53:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/khautrangquyenanh/image/cache/catalog/slide-bg-1-1820x360.jpg' for writing: Permission denied in /var/www/html/khautrangquyenanh/system/library/image.php on line 45
+2016-08-07 9:53:02 - PHP Warning:  imagejpeg(): Unable to open '/var/www/html/khautrangquyenanh/image/cache/catalog/slide-bg-3-1820x360.jpg' for writing: Permission denied in /var/www/html/khautrangquyenanh/system/library/image.php on line 45
+2016-08-07 9:55:06 - PHP Warning:  unlink(/var/www/html/khautrangquyenanh/system/cache/override/admin_view_template_common_menu.tpl): Permission denied in /var/www/html/khautrangquyenanh/system/engine/factory.php on line 644
+2016-08-07 10:03:15 - PHP Notice:  Undefined variable: magikastra_maintenancedate in /var/www/html/khautrangquyenanh/admin/view/template/module/magikastra.tpl on line 1053
