@@ -1888,7 +1888,6 @@ li.level0 > a:hover > span > .pin-bottom:before, #nav li.level0:hover > a > span
 	margin-bottom: 20px;
 }
 .sticky {
-	position: fixed;
 	margin-top: 0px;
 	z-index: 1000;
 	display: block;
