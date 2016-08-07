@@ -1,0 +1,10 @@
+2016-08-07 3:02:08 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:02:08 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:02:14 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:02:14 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:03:29 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:03:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:03:34 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:03:34 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:12:50 - PHP Notice:  Undefined variable: postList in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
+2016-08-07 3:12:50 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/khautrang/catalog/view/theme/astragrey/template/module/magikblog_homepage.tpl on line 6
