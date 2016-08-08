@@ -23,7 +23,7 @@ $_['entry_captcha']  = 'Nhập mã captcha';
 $_['email_subject']  = 'Nội dung %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
-$_['error_captcha']  = 'Verification code does not match the image!';
+$_['error_name']     = 'Tên phải có từ 3 đến 32 ký tự!';
+$_['error_email']    = 'E-Mail Địa chỉ không có vẻ hợp lệ!';
+$_['error_enquiry']  = 'Yêu cầu phải có từ 10 đến 3000 ký tự!';
+$_['error_captcha']  = 'Mã xác nhận không phù hợp với hình ảnh!';
