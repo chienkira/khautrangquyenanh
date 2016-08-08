@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']     = 'Account Downloads';
+$_['heading_title']     = 'Tài khoản Downloads';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_downloads']    = 'Downloads';
-$_['text_empty']        = 'You have not made any previous downloadable orders!';
+$_['text_account']      = 'Tài khoản';
+$_['text_downloads']    = 'Tải ';
+$_['text_empty']        = 'Bạn đã không thực hiện bất kỳ đơn đặt hàng có thể tải về trước đó!';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_name']       = 'Name';
-$_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';
+$_['column_order_id']   = 'Thứ tự ID';
+$_['column_name']       = 'Tên';
+$_['column_size']       = 'Kích thước';
+$_['column_date_added'] = 'Ngày thêm';

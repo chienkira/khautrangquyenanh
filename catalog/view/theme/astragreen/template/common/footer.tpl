@@ -102,7 +102,6 @@ $youtubeurl=$config->get('magikastra_youtube');
             <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
             <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
             <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
-            <li class="last"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>"><?php echo $text_account; ?></a></li>
             </ul> 
           </div>
 
@@ -111,7 +110,6 @@ $youtubeurl=$config->get('magikastra_youtube');
             <h4><?php echo $text_extra; ?></h4>
             <ul class="links">
             <li class="first"><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
-            <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
             <li><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
             <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
             <?php if($this->config->get('magikblog_status')==1) {    ?>
