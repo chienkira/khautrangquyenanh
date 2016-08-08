@@ -11,6 +11,6 @@ $_['text_order']         = 'Lịch sử mua hàng';
 $_['text_transaction']   = 'Giao dịch';
 $_['text_download']      = 'Tải về';
 $_['text_logout']        = 'Đăng xuất';
-$_['text_checkout']      = '';
+$_['text_checkout']      = 'Checkout';
 $_['text_search']        = 'Tìm kiếm';
 $_['text_all']           = 'Hiển thị tất cả';

@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Tài khoản đăng nhập';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Tài khoản';
+$_['text_login']                   = 'Đăng nhập';
+$_['text_new_customer']            = 'Khách hàng mới';
+$_['text_register']                = 'Đăng ký tài khoản';
+$_['text_register_account']        = 'Bằng cách tạo một tài khoản bạn sẽ có thể mua sắm nhanh hơn, cập nhật về một trật tự \' s status, và theo dõi các đơn hàng bạn đã thực hiện trước đây. ';
+$_['text_returning_customer']      = 'Phản hồi khách hàng';
+$_['text_i_am_returning_customer'] = 'Tôi là một khách hàng cũ';
+$_['text_forgotten']               = 'Đã quên mật khẩu';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'Địa chỉ email';
+$_['entry_password']               = 'Mật khẩu';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Cảnh báo: Không phù hợp cho Địa chỉ E-Mail và / hoặc mật khẩu.';
+$_['error_attempts']               = 'Cảnh báo: Tài khoản của bạn đã vượt quá số lượng cho phép của nỗ lực đăng nhập. Vui lòng thử lại trong 1 giờ. ';
+$_['error_approved']               = 'Cảnh báo: Tài khoản của bạn đòi hỏi phải có sự chấp thuận trước khi bạn có thể đăng nhập.';

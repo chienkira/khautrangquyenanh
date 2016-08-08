@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Product Comparison';
+$_['heading_title']     = 'So sánh sản phẩm';
 
 // Text
-$_['text_product']      = 'Product Details';
-$_['text_name']         = 'Product';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Price';
-$_['text_model']        = 'Model';
-$_['text_manufacturer'] = 'Brand';
-$_['text_availability'] = 'Availability';
-$_['text_instock']      = 'In Stock';
+$_['text_product']      = 'Chi tiết sản phẩm';
+$_['text_name']         = 'Sản phẩm';
+$_['text_image']        = 'Ảnh';
+$_['text_price']        = 'Giá';
+$_['text_model']        = 'Mẫu';
+$_['text_manufacturer'] = 'Nhãn hiệu';
+$_['text_availability'] = 'Còn hàng';
+$_['text_instock']      = 'Trong kho';
 $_['text_rating']       = 'Rating';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
-$_['text_compare']      = 'Product Compare (%s)';
+$_['text_reviews']      = 'Dựa trên %s reviews.';
+$_['text_summary']      = 'Tóm tắt';
+$_['text_weight']       = 'Khói lượng';
+$_['text_dimension']    = 'Kích thước (L x W x H)';
+$_['text_compare']      = 'So sánh sản phẩm (%s)';
 $_['text_success']      = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
 $_['text_remove']       = 'Success: You have modified your product comparison!';
 $_['text_empty']        = 'You have not chosen any products to compare.';
