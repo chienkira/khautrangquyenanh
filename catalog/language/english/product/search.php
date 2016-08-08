@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
+$_['heading_title']     = 'Tìm kiếm';
 $_['heading_tag']		= 'Tag - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
+$_['text_search']       = 'Sản phẩm tìm được';
+$_['text_keyword']      = 'Từ khóa';
+$_['text_category']     = 'Tất cả các danh mục';
+$_['text_sub_category'] = 'Tìm trong danh mục';
+$_['text_empty']        = 'Không tìm thấy sản phẩm phù hợp.';
+$_['text_quantity']     = 'Số lượng:';
+$_['text_manufacturer'] = 'Nhãn hiệu:';
 $_['text_model']        = 'Mã sản phẩm:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_reviews']      = 'Based on %s reviews.';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_points']       = 'Điểm thưởng:';
+$_['text_price']        = 'Giá:';
+$_['text_tax']          = 'Thuế:';
+$_['text_reviews']      = 'Dựa trên %s reviews.';
+$_['text_compare']      = 'So sánh (%s)';
+$_['text_sort']         = 'Sắp xếp:';
+$_['text_default']      = 'Mặc định';
+$_['text_name_asc']     = 'Tên (A - Z)';
+$_['text_name_desc']    = 'Tên (Z - A)';
+$_['text_price_asc']    = 'Giá (Thấp &gt; Cao)';
+$_['text_price_desc']   = 'Giá (Cao &gt; Thấp)';
+$_['text_rating_asc']   = 'Rating (Thấp)';
+$_['text_rating_desc']  = 'Rating (Cao)';
+$_['text_model_asc']    = 'Mẫu (A - Z)';
+$_['text_model_desc']   = 'Mẫu (Z - A)';
+$_['text_limit']        = 'Hiển thị:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Điều kiện tìm kiếm';
+$_['entry_description'] = 'Tìm kiếm trong mô tả của sản phẩm';
