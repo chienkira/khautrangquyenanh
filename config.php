@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://happydev.xyz/khautrangquyenanh/');
+define('HTTP_SERVER', 'http://khautrangquyenanh.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://happydev.xyz/khautrangquyenanh/');
+define('HTTPS_SERVER', 'http://khautrangquyenanh.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/khautrangquyenanh/catalog/');

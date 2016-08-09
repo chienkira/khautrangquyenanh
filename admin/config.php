@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://happydev.xyz/khautrangquyenanh/admin/');
-define('HTTP_CATALOG', 'http://happydev.xyz/khautrangquyenanh/');
+define('HTTP_SERVER', 'http://khautrangquyenanh.com/admin/');
+define('HTTP_CATALOG', 'http://khautrangquyenanh.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://happydev.xyz/khautrangquyenanh/admin/');
-define('HTTPS_CATALOG', 'http://happydev.xyz/khautrangquyenanh/');
+define('HTTPS_SERVER', 'http://khautrangquyenanh.com/admin/');
+define('HTTPS_CATALOG', 'http://khautrangquyenanh.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/khautrangquyenanh/admin/');
