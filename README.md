@@ -1,5 +1,6 @@
-# khautrangquyenanh
-<< deploy hộ chị gái web bán hàng >>
+# khautrangquyenanh.com
+[deploy hộ chị gái web bán hàng]
+
 Website Công ty TNHH may mặc Quyền Anh http://khautrangquyenanh.com
 
 Based on OpenCart 2.0 with Astra theme.
