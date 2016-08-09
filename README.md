@@ -12,3 +12,4 @@ Based on OpenCart 2.0 with Astra theme.
 4. Create and enable site conf on your host.
 
 # Screen capture
+![alt text](https://github.com/chienkira/khautrangquyenanh/blob/master/screencapture-khautrangquyenanh.com.png "Screen capture khautrangquyenanh.com")
