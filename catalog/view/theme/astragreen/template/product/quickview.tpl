@@ -159,7 +159,7 @@ jQuery(document).ready(function(){
               <?php } ?>
               <li><?php echo $text_model; ?> <?php echo $model; ?></li>
               <?php if ($reward) { ?>
-              <li><?php echo $text_reward; ?> <?php echo $reward; ?></li>
+
               <?php } ?>
               <!-- <li><?php //echo $text_stock; ?> <?php //echo $stock; ?></li> -->
               </ul>
@@ -316,30 +316,7 @@ jQuery(document).ready(function(){
 
           <div class="add-to-box">
                        
-            <div class="add-to-cart">
-              <label class="control-label" for="input-quantity"><?php echo $entry_qty; ?></label>
-              <div class="pull-left">
-                <div class="custom pull-left">
-                    
-                    <button class="reduced items-count" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) && qty > 0 ) result.value--;return false;" type="button">
-                    <i class="icon-minus"> </i>
-                    </button>
-                    
-                    <input type="text" name="quantity" value="<?php echo $minimum; ?>" size="2" id="qty" class="input-text qty" maxlength="12"/>
-                    
 
-                    <button class="increase items-count" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;" type="button">
-                    <i class="icon-plus"> </i>
-                    </button>
-
-
-                    <input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
-                </div>
-                </div> 
-
-                <div class="pull-left">
-                  <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="button btn-cart"><span><?php echo $button_cart; ?></span></button>
-                </div>
               
             </div>
             

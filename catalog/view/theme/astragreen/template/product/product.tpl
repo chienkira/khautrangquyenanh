@@ -103,7 +103,7 @@
             <?php } ?>
             <li><?php echo $text_model; ?> <?php echo $model; ?></li>
             <?php if ($reward) { ?>
-            <li><?php echo $text_reward; ?> <?php echo $reward; ?></li>
+
             <?php } ?>
             </ul>
 
