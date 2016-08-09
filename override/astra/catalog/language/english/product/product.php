@@ -1,3 +1,3 @@
 <?php 
-$_['button_compare']        = 'Add To Compare';
-$_['entry_qty']                = 'Quantity';
+$_['button_compare']        = 'So sánh';
+$_['entry_qty']                = 'Số lượng';
